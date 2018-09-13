@@ -95,7 +95,7 @@
         <Component class="javax.swing.JLabel" name="jLabel1">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\HP\Documents\welcome.png"/>
+              <Image iconType="3" name="/img/welcome.png"/>
             </Property>
           </Properties>
           <Constraints>
@@ -141,7 +141,7 @@
         <Component class="javax.swing.JLabel" name="jLabel3">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\HP\Downloads\logo3.png"/>
+              <Image iconType="3" name="/img/logo3.png"/>
             </Property>
           </Properties>
           <Constraints>
@@ -162,7 +162,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\HP\Documents\homeawal12.png"/>
+              <Image iconType="3" name="/img/homeawal12.png"/>
             </Property>
           </Properties>
           <Constraints>
